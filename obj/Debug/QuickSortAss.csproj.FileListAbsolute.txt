@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\obj\Debug\QuickSortAss.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\obj\Debug\QuickSortAss.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\obj\Debug\QuickSortAss.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\bin\Debug\QuickSortAss.exe.config
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\bin\Debug\QuickSortAss.exe
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\bin\Debug\QuickSortAss.pdb
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\obj\Debug\QuickSortAss.exe
+D:\Simplilearn\Day-12\Assignment\QuickSortAss\QuickSortAss\obj\Debug\QuickSortAss.pdb
